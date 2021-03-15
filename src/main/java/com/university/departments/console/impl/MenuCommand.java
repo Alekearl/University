@@ -9,7 +9,7 @@ public class MenuCommand implements CommandConsole {
     public void handle() {
         String menu = "Commands to insert:\n"
                 + "\"menu\" - shows menu\n"
-                + "\"1\" - get to know who is head of department\n"
+                + "\"1\" - get head of department\n"
                 + "\"2\" - get department statistic\n"
                 + "\"3\" - get department average salary\n"
                 + "\"4\" - get department employees count\n"
