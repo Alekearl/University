@@ -1,7 +1,7 @@
 ### Department Console program. <br>
 In this program you have commands to insert: <br>
 + menu - shows menu <br>
-+ 1 - get to know who is head of department <br>
++ 1 - get head of department <br>
 + 2 - get department statistic <br>
 + 3 - get department average salary <br>
 + 4 - get department employees count <br>
