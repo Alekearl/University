@@ -11,5 +11,4 @@ In this program you have commands to insert: <br>
 ##### Start the project:
 - Download project from Github <br>
 - Open it in your IDE. <br>
-- Connect to DB MySQL. <br>  
-- Run project tests to be sure that solution works correctly. <br>
+- Connect to DB MySQL. <br>
